@@ -553,7 +553,7 @@ class _HomePageState extends State<HomePage> {
                                       orElse: () => false,
                                       success: (data) => data.isCheckedin,
                                     );
-                                    return isCheckin == true
+                                    return faceEmbedding != null
                                         ? MenuButton(
                                             label: 'Datang',
                                             iconPath: isCheckin
