@@ -1,3 +1,2 @@
-# flutter_absensi_app
-
-A new Flutter project.
+# Eksperimen face detection 
+Khususon for Attandance Company klau dikembangin
